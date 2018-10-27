@@ -6,7 +6,7 @@ Application allows you to register, login, view and search expense, create new e
 ## Prerequisites
 - JDK 1.7
 - Maven 3.2
-- XAMPP 7.2.9.0 with 10.1.35-MariaDB
+- XAMPP 7.2.9 with 10.1.35-MariaDB
 - Create and populate schema in database from file create_tables_in_myWalletDB.sql
 
 ## Stack
