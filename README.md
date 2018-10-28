@@ -3,6 +3,23 @@ Simple Expense Management system with Spring MVC 4, Spring Security 4, Hibernate
 
 Application allows you to register, login, view and search expense, create new expense, edit and delete existing expense.
 
+## Screenshots
+
+Log in
+![Screenshot](https://drive.google.com/uc?id=1h_gHno3JjrvGq_X7QMB70LBZyHlTlRu-)
+
+Register account
+![Screenshot](https://drive.google.com/uc?id=1i2i83OAEPAtKQUHy6-q-1elZB5J5exdJ)
+
+List of expenses
+![Screenshot](https://drive.google.com/uc?id=1RmDeRIi-qTqn2el1KrRxI0MM7KB1pB-6)
+
+New/Edit expense
+![Screenshot](https://drive.google.com/uc?id=1eDY737PKHT2plX3NPlIS3wWJTPFysr5X)
+
+Log out
+![Screenshot](https://drive.google.com/uc?id=16EXPpRBhT3KVeF11xWhOq39DL0pVLFs5)
+
 ## Prerequisites
 - JDK 1.7
 - Maven 3.2
